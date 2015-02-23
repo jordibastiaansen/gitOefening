@@ -1,1 +1,3 @@
 Dit is zomaar een testbestandje, die ik nu heb aangepast
+
+iets toegevoegd aan tekstbestand
